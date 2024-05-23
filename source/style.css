@@ -14,7 +14,7 @@ body{
 
 .container-flut{
     height: 869px;
-    background: url('../image/backgroundHeader.jpg') center center no-repeat;
+    background: url('/image/backgroundHeader.jpg') center center no-repeat;
     padding: 0 15px;
 }
 
@@ -44,7 +44,7 @@ body{
 .logo{
     height: 200px;
     margin: 90px 0;
-    background: url("../image/hapoERP.png") center center no-repeat;
+    background: url("/image/hapoERP.png") center center no-repeat;
 }
 
 .text {
